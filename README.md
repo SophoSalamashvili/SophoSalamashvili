@@ -6,7 +6,7 @@ Welcome to my Quality Assurance portfolio — a collection of my professional QA
 
 ## 👩‍💻 About Me
 
-I am a **Manual QA Tester** with hands-on experience in testing web and mobile applications.  
+I am a **Junior QA Tester** with hands-on experience in testing web and mobile applications.  
 My work focuses on ensuring product stability, usability, and compliance with requirements through thorough manual testing, 
 improving testing processes, and collaborating closely with development teams.
 
@@ -62,8 +62,6 @@ Throughout my QA journey, I have worked on various types of testing and continuo
 - **Continuous Improvement** — enhancing skills through QA courses, real-life projects, and certification programs.
 
 This knowledge complements my practical experience in manual testing and collaboration with development teams to deliver high-quality software.
-
-You can find my **Learning materials**, **Certificates**, and **Practice documentation** in the corresponding folders.
 
 ---
 
