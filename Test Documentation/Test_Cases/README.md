@@ -8,13 +8,13 @@
   
 - **Steps:**
   1. Open the website (`www.example.ge`)
-  2. Click on ,,Registration,, button
-  3. Enter a valid email  (`sopho.@example.com`)
-  4. Enter a valid first name  (`Sopho`)
-  5. Enter a valid last name  (`Salamashvili`)
-  6. Enter a valid password  (`Password123!`)
-  7. Confirm password  (`Password123!`)
-  8. Click the “Register” button
+  3. Click on ,,Registration,, button
+  4. Enter a valid email  (`sopho.@example.com`)
+  5. Enter a valid first name  (`Sopho`)
+  6. Enter a valid last name  (`Salamashvili`)
+  7. Enter a valid password  (`Password123!`)
+  8. Confirm password  (`Password123!`)
+  9. Click the “Register” button
 
 - **Expected Result:** User is registered successfully and redirected to the dashboard page
 
