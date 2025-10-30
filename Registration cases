@@ -1,0 +1,47 @@
+Registration with valid data
+
+1.Open website https://invu.ge
+2.Click on “Sign In”
+3.Click on "Sign Up Here"
+4.Enter valid name  "Sopho"
+5.Enter valid surname  "Salamashvili"
+6.Enter valid email  "salamashvilisopho@gmail.com"
+7.Enter valid password  "Sopo12@"
+8.Confirm password "sopo12@"
+9.Click “Register” button
+
+Expected Result:
+User is successfully registered and redirected to the homepage.
+
+
+
+
+Title: Registration with invalid email data
+
+Steps:
+1.Open https://invu.ge
+2.Click on “Register”
+3.Enter valid name "Sopho"
+4.Enter valid surname "Salamashvili"
+5.Enter invalid email "sopo.salamashviligmail.com"
+6.Enter valid password "sopo123@"
+4.Click “Register” button
+
+Expected Result:
+The system displays an error: "Please enter a valid email address," and the registration will not be completed.
+
+
+
+Title: Registration with a weak password
+
+Steps:
+1.Open https://invu.ge
+2.Click on “Register”
+3.Enter valid name "Sopho"
+4.Enter valid surname "Salamashvili"
+5.Enter valid email "sopo.salamashvili@gmail.com"
+6.Enter a weak password "123456"
+4.Click “Register” button
+
+Expected Result:
+The system displays an error: "Password is too weak" and registration is not completed.

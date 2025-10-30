@@ -1,0 +1,20 @@
+Title: Creating an Invitation with a Valid Data
+
+Steps:
+
+1.Open the website https://invu.ge
+2.Click the “Login” button
+3.Enter email address "salamashvilisopho@gmail.com"
+4.Enter password "Sopho12@"
+Click on "Sing In" button"
+5.Click “My Invitations”
+6.Select “Browse Templates”
+7.Choose the card “Simple Wedding”
+8.Fill the Event Title field “Ema and Noah”
+9.Fill Location field “Central Park, New York”
+10.Enter the Date “22.10.2025”
+11.Enter the Time “18:00”
+12.Click the “Create Invitation” button
+
+Expected Result:
+The invitation will be successfully created and will apear in the user's invitation list.
