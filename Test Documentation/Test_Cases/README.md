@@ -1,6 +1,6 @@
 # Test Cases
 
-## TC_1
+## TC_01
 
 - **Title:** Registration with valid credentials
 - **Module:** Registration
@@ -20,7 +20,7 @@
 
 
 
-## TC_2
+## TC_02
 
 - **Title:** Registration Fails with Weak Password
 - **Module:** Registration  
@@ -42,7 +42,7 @@
 
 
 
-## TC_3
+## TC_03
 
 - **Title:** Verify User Can Add Product to Cart  
 - **Module:** Cart / Product Page  
@@ -61,12 +61,12 @@
 
 
 
-## TC_4
+## TC_04
 
 - **Title:** Verify Price Update on Quantity Change
 - **Module:** Cart  
 - **Priority:** Medium  
-- **Preconditions:** User is logged in has a product in the cart
+- **Preconditions:** User is logged in 
  
 - **Steps:**
   1. Open the website (www.example.ge)
